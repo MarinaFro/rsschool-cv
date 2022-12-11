@@ -9,3 +9,11 @@
 ## About me
 
 Hi! My name is Marina. I worked as a visual merchandiser in a clothing store. Now I want to learn to be a front-end developer. This is my big dream.
+
+## Skills
+
+- HTML
+- CSS
+- Flex-box
+- CSS Grid Layout
+- GitHub Desctop
