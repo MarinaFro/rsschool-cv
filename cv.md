@@ -17,3 +17,17 @@ Hi! My name is Marina. I worked as a visual merchandiser in a clothing store. No
 - Flex-box
 - CSS Grid Layout
 - GitHub Desctop
+
+## Education
+
+University: Ivanovo State University
+Speciality: HR-Manager
+
+\*Course:
+
+- [RS-School](https://app.rs.school/)
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+## English
+
+I am in the process of learning English.
