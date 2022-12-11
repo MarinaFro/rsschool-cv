@@ -20,8 +20,7 @@ Hi! My name is Marina. I worked as a visual merchandiser in a clothing store. No
 
 ## Education
 
-**University**: Ivanovo State University
-**Speciality**: HR-Manager
+**University**: Ivanovo State University, HR-Manager
 
 **Course**:
 
